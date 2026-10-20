@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2108901962645196943",
+    "created_at": "2026-10-10T12:46:24.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T13:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108901962645196943"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108901962645196943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还没怎么爽呢怎么就药物中毒断片睡着了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2108901962645196943",
+        "created_at": "2026-10-10T12:46:24.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108901962645196943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108901962645196943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还没怎么爽呢怎么就药物中毒断片睡着了😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n14歲休學在家/雙相/精分/overdose/自傷/喜歡東方project\n只回fo同類\n業餘學習藥理\nip北京順義 線下掛壁dd\n熟悉了可以給你寄pr阿片咪\n沒有🚪想加我牆內深交的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "距离你300m",
+        "most_recent_tweet_id": "2108901962645196943",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107182562229796864/5pMR9VHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 45,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2109949218521788698",
+    "created_at": "2026-10-13T10:07:49.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T11:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109949218521788698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2077609150889226240",
+          "start": 3,
+          "username": "yuugata11984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109949218521788698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109876551034741067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuugata11984: 进行一个百fo抽奖的办\n要求：关赞转评 grok抽\n一等奖：50r一位\n二等奖：30r两位\n三等奖：指定角色头像/折现10一位\n\n没人就算了！\n15号开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109949218521788698",
+        "created_at": "2026-10-13T10:07:49.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T11:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109949218521788698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2077609150889226240",
+              "start": 3,
+              "username": "yuugata11984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109949218521788698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109876551034741067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuugata11984: 进行一个百fo抽奖的办\n要求：关赞转评 grok抽\n一等奖：50r一位\n二等奖：30r两位\n三等奖：指定角色头像/折现10一位\n\n没人就算了！\n15号开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077609150889226240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109876551034741067",
+        "created_at": "2026-10-13T05:19:04.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T06:18:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109876428720226519",
+          "2109876551034741067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109876551034741067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 787,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "进行一个百fo抽奖的办\n要求：关赞转评 grok抽\n一等奖：50r一位\n二等奖：30r两位\n三等奖：指定角色头像/折现10一位\n\n没人就算了！\n15号开"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 直fo就是喜欢泥， 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109949218521788698",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "pinned_tweet_id": "2109805703817036276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1791854700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109816952348925952/W9WRhFgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 109,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T04:22:16.000Z",
+        "description": "=小夫\n18⬆️中国語｜病み垢｜日本語初心者\n二号机@yuugata11984_2\n🤍神聖かまってちゃん🤍\n提问箱：https://t.co/aFurAHeiff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "yuugata11984_2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jidhxhs46357",
+                "end": 81,
+                "expanded_url": "https://ngl.link/jidhxhs46357",
+                "start": 58,
+                "url": "https://t.co/aFurAHeiff"
+              }
+            ]
+          }
+        },
+        "id": "2077609150889226240",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2109944588983308619",
+        "name": "皆んなを殺す（同类回fo版",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077609150889226240/1784176077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077609849664442368/219f8JW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 155,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "yuugata11984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

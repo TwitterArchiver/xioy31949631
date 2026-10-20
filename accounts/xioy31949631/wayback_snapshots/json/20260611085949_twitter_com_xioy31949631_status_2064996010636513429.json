@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064995943351492608"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064996010636513429",
+    "created_at": "2026-06-11T08:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064996010636513429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXyB7Q7KUq",
+          "end": 44,
+          "expanded_url": "https://x.com/xioy31949631/status/2064996010636513429/photo/1",
+          "media_key": "3_2064995943351492608",
+          "start": 21,
+          "url": "https://t.co/hXyB7Q7KUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064996010636513429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈哈哈他妈等了一个多月终于到了 https://t.co/hXyB7Q7KUq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064995943351492608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhW3qIWoAAQQFL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064995943351492608"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064996010636513429",
+        "created_at": "2026-06-11T08:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064996010636513429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXyB7Q7KUq",
+              "end": 44,
+              "expanded_url": "https://x.com/xioy31949631/status/2064996010636513429/photo/1",
+              "media_key": "3_2064995943351492608",
+              "start": 21,
+              "url": "https://t.co/hXyB7Q7KUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064996010636513429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈他妈等了一个多月终于到了 https://t.co/hXyB7Q7KUq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "13岁男生 我自残与磕药跟你没关系 瞎骂我的你最好一点墙内信息都别漏",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064129087405277185/KBvv7JtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "xioy31949631",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2110399245190832236",
+    "created_at": "2026-10-14T15:56:04.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T16:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2110399245190832236"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2110399245190832236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏掉的胃会好的 剪丑的头发也会重新长出来 胳膊的疤痕也会随着时间淡化 暴躁的脾气也会变得平静 一切的一切都会好的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2110399245190832236",
+        "created_at": "2026-10-14T15:56:04.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T16:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110399245190832236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110399245190832236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏掉的胃会好的 剪丑的头发也会重新长出来 胳膊的疤痕也会随着时间淡化 暴躁的脾气也会变得平静 一切的一切都会好的吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 直fo就是喜欢泥， 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2110399245190832236",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "pinned_tweet_id": "2109805703817036276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1791854700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110007847937523712/TKL1U0OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 127,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

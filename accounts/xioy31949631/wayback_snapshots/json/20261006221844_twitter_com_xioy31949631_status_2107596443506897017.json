@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107596430349414400",
+        "3_2107596430357753856"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107596443506897017",
+    "created_at": "2026-10-06T22:18:44.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T23:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107596443506897017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sVKr03WgKG",
+          "end": 32,
+          "expanded_url": "https://x.com/xioy31949631/status/2107596443506897017/photo/1",
+          "media_key": "3_2107596430349414400",
+          "start": 9,
+          "url": "https://t.co/sVKr03WgKG"
+        },
+        {
+          "display_url": "pic.x.com/sVKr03WgKG",
+          "end": 32,
+          "expanded_url": "https://x.com/xioy31949631/status/2107596443506897017/photo/1",
+          "media_key": "3_2107596430357753856",
+          "start": 9,
+          "url": "https://t.co/sVKr03WgKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107596443506897017",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107596430349414400"
+      },
+      {
+        "media_key": "3_2107596430357753856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个有滥用价值吗 https://t.co/sVKr03WgKG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2107596430349414400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-vyXDbsAAJIwh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 180,
+        "media_key": "3_2107596430357753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-vyXFa8AArmDr.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107596430349414400",
+            "3_2107596430357753856"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107596443506897017",
+        "created_at": "2026-10-06T22:18:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T23:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107596443506897017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVKr03WgKG",
+              "end": 32,
+              "expanded_url": "https://x.com/xioy31949631/status/2107596443506897017/photo/1",
+              "media_key": "3_2107596430349414400",
+              "start": 9,
+              "url": "https://t.co/sVKr03WgKG"
+            },
+            {
+              "display_url": "pic.x.com/sVKr03WgKG",
+              "end": 32,
+              "expanded_url": "https://x.com/xioy31949631/status/2107596443506897017/photo/1",
+              "media_key": "3_2107596430357753856",
+              "start": 9,
+              "url": "https://t.co/sVKr03WgKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107596443506897017",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107596430349414400"
+          },
+          {
+            "media_key": "3_2107596430357753856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个有滥用价值吗 https://t.co/sVKr03WgKG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n14歲休學在家/雙相/精分/overdose/自傷/二次元\n只回fo同類小可憐\n我精神不正常說話不過腦子 如果讓你聽著難受了和我說呀 我都會改的！\n業餘學習藥理\nip北京順義 線下掛壁dd 我在網上什麼話都敢說 線下是一個特別社恐的人呀\n熟悉了可以給你寄pr阿片咪\n沒有🚪想加我牆內深交的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107596443506897017",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107182562229796864/5pMR9VHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 26,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

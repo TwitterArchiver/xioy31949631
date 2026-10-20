@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2084626511013834771",
+    "created_at": "2026-08-04T13:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084626511013834771"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084626511013834771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "戒了一周 严肃服用16t150mg普瑞！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2084626511013834771",
+        "created_at": "2026-08-04T13:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084626511013834771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084626511013834771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒了一周 严肃服用16t150mg普瑞！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁休学在家 双相/自残/od 尼古丁持续依赖 许愿朋友。",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081111115682004994/h_15_ZYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false
+      }
+    ]
+  }
+}

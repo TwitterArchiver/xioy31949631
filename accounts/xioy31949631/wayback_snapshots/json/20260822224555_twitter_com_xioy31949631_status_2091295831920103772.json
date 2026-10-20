@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2091262711753822366",
+    "created_at": "2026-08-22T22:45:55.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T23:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091295831920103772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724267127031672832",
+          "start": 0,
+          "username": "aliebwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091295831920103772",
+    "in_reply_to_user_id": "1724267127031672832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091262711753822366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliebwa 握草 大哥？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091262702866022400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWoWShaQAAYnjO.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2091262711753822366",
+        "created_at": "2026-08-22T22:45:55.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T23:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091295831920103772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724267127031672832",
+              "start": 0,
+              "username": "aliebwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091295831920103772",
+        "in_reply_to_user_id": "1724267127031672832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091262711753822366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliebwa 握草 大哥？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091262702866022400"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "2091262711753822366",
+        "created_at": "2026-08-22T20:34:18.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091262711753822366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uq9vH4nrXm",
+              "end": 41,
+              "expanded_url": "https://x.com/aliebwa/status/2091262711753822366/photo/1",
+              "media_key": "3_2091262702866022400",
+              "start": 18,
+              "url": "https://t.co/uq9vH4nrXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091262711753822366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091262702866022400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 495,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想要？抽奖抽出去吧 反正也不吃了 https://t.co/uq9vH4nrXm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁休学在家 双相/自残/od 尼古丁持续依赖 许愿朋友。没有帖子不回关哦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091295831920103772",
+        "name": "小雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088370406839418880/dkn7qy8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 10,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "🚪66 努力活着努力活下去",
+        "id": "1724267127031672832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091281922538520743",
+        "name": "idi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724267127031672832/1699933762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 1142,
+          "like_count": 1212,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "aliebwa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

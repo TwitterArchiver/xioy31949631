@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2109954112905494636",
+    "created_at": "2026-10-13T13:07:44.000Z",
+    "display_text_range": [
+      27,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T14:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109994495278547231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870251262048116736",
+          "start": 0,
+          "username": "Hjjrdihu"
+        },
+        {
+          "end": 26,
+          "id": "2090037143972593664",
+          "start": 10,
+          "username": "Acetaffyismymom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109994495278547231",
+    "in_reply_to_user_id": "1870251262048116736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109954112905494636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hjjrdihu @Acetaffyismymom 蹲蹲。可以嘛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2109954112905494636",
+        "created_at": "2026-10-13T13:07:44.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T14:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109994495278547231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870251262048116736",
+              "start": 0,
+              "username": "Hjjrdihu"
+            },
+            {
+              "end": 26,
+              "id": "2090037143972593664",
+              "start": 10,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109994495278547231",
+        "in_reply_to_user_id": "1870251262048116736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109954112905494636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hjjrdihu @Acetaffyismymom 蹲蹲。可以嘛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870251262048116736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109954112905494636",
+        "created_at": "2026-10-13T10:27:16.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T11:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109954112905494636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109954112905494636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 366,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "新一轮抽奖\n一等奖20g pr\n二等奖10g pr\n三等奖三个 5g pr\n15号晚上8点开奖！大家踊跃参与啦！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 直fo就是喜欢泥， 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109994495278547231",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "pinned_tweet_id": "2109805703817036276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1791854700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109816952348925952/W9WRhFgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 101,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T23:33:53.000Z",
+        "description": "大量普普哦\n二号：@3kb2i9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "3kb2i9"
+              }
+            ]
+          }
+        },
+        "id": "1870251262048116736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109991588730733042",
+        "name": "奇幻之旅（pr出售，塞奈普汀）",
+        "pinned_tweet_id": "2109954112905494636",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107783972902289408/JzM-ko-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 123,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Hjjrdihu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "窝是一个正常人中的少数人，少数人中的正常人，窝只反對一些立場錯誤的極端羣體，對大部分人都友好，此號多發些碎碎念，可能很多負能量，但我希望一切都變好，祝大家都能生活順利喵\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2109993979450478821",
+        "name": "塔菲是我疊🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2109508308520567137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109242531745857536/NL-7SvYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 796,
+          "like_count": 4392,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

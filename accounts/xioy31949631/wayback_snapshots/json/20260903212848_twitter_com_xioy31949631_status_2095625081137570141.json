@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095625066319147008"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095625081137570141",
+    "created_at": "2026-09-03T21:28:48.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T22:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095625081137570141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bEwmLmsXLh",
+          "end": 31,
+          "expanded_url": "https://x.com/xioy31949631/status/2095625081137570141/photo/1",
+          "media_key": "3_2095625066319147008",
+          "start": 8,
+          "url": "https://t.co/bEwmLmsXLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095625081137570141",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095625066319147008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就割了一点点。 https://t.co/bEwmLmsXLh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095625066319147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRUn5QxbcAAD46F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095625066319147008"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095625081137570141",
+        "created_at": "2026-09-03T21:28:48.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T22:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095625081137570141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bEwmLmsXLh",
+              "end": 31,
+              "expanded_url": "https://x.com/xioy31949631/status/2095625081137570141/photo/1",
+              "media_key": "3_2095625066319147008",
+              "start": 8,
+              "url": "https://t.co/bEwmLmsXLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095625081137570141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095625066319147008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就割了一点点。 https://t.co/bEwmLmsXLh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁休学在家 双相/精神分裂/自残/od 尼古丁持续依赖 许愿朋友。没有帖子不回关哦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095625081137570141",
+        "name": "小雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088370406839418880/dkn7qy8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 10,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2063804742661538203",
+    "created_at": "2026-06-08T10:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063927821358006625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973965773472477184",
+          "start": 0,
+          "username": "wu830761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063927821358006625",
+    "in_reply_to_user_id": "1973965773472477184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063804742661538203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu830761 偷井盖的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063804731177496576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQbd--a8AAi0Nv.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063804731173351424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQbd-9bsAATxI9.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2063804742661538203",
+        "created_at": "2026-06-08T10:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063927821358006625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973965773472477184",
+              "start": 0,
+              "username": "wu830761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063927821358006625",
+        "in_reply_to_user_id": "1973965773472477184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063804742661538203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu830761 偷井盖的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063804731177496576",
+            "3_2063804731173351424"
+          ]
+        },
+        "author_id": "1973965773472477184",
+        "conversation_id": "2063804742661538203",
+        "created_at": "2026-06-08T02:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063804742661538203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44iwNstBfF",
+              "end": 34,
+              "expanded_url": "https://x.com/wu830761/status/2063804742661538203/photo/1",
+              "media_key": "3_2063804731177496576",
+              "start": 11,
+              "url": "https://t.co/44iwNstBfF"
+            },
+            {
+              "display_url": "pic.x.com/44iwNstBfF",
+              "end": 34,
+              "expanded_url": "https://x.com/wu830761/status/2063804742661538203/photo/1",
+              "media_key": "3_2063804731173351424",
+              "start": 11,
+              "url": "https://t.co/44iwNstBfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063804742661538203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 137801,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 213,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "八十六斤被河南人说肥 https://t.co/44iwNstBfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "13岁男生 我自残与磕药跟你没关系 瞎骂我的你最好一点墙内信息都别漏",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062647435839610880/0TzGReNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "xioy31949631",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T04:18:19.000Z",
+        "description": "",
+        "id": "1973965773472477184",
+        "location": "🚪518vx/1314tg/5180/13140",
+        "name": "东京躁郁王",
+        "pinned_tweet_id": "2050276758596010089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050491296318738432/gntmdBxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 11,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 623
+        },
+        "username": "wu830761",
+        "verified": true
+      }
+    ]
+  }
+}

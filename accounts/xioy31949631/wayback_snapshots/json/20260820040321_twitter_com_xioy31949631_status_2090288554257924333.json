@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090288500990152704"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "conversation_id": "2090288554257924333",
+    "created_at": "2026-08-20T04:03:21.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090288554257924333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYwJ2RiBGa",
+          "end": 63,
+          "expanded_url": "https://x.com/xioy31949631/status/2090288554257924333/video/1",
+          "media_key": "13_2090288500990152704",
+          "start": 40,
+          "url": "https://t.co/WYwJ2RiBGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090288554257924333",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090288500990152704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将带着普瑞巴林和盐野义登顶榜一 我左手普瑞巴林右手右美沙芬 头顶盐野义 登顶 https://t.co/WYwJ2RiBGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14348,
+        "height": 720,
+        "media_key": "13_2090288500990152704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090288500990152704/img/bdHLuO4JgdDvEu3H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090288500990152704/vid/avc1/360x270/A7WjlsQjDVSJ4FMy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090288500990152704/vid/avc1/480x360/hUHZHV4hGzvsmny6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090288500990152704/vid/avc1/960x720/5gh_8q8KY8xZVznk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090288500990152704/pl/kppoeudXENvHWtLH.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090288500990152704"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "conversation_id": "2090288554257924333",
+        "created_at": "2026-08-20T04:03:21.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090288554257924333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYwJ2RiBGa",
+              "end": 63,
+              "expanded_url": "https://x.com/xioy31949631/status/2090288554257924333/video/1",
+              "media_key": "13_2090288500990152704",
+              "start": 40,
+              "url": "https://t.co/WYwJ2RiBGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090288554257924333",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090288500990152704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将带着普瑞巴林和盐野义登顶榜一 我左手普瑞巴林右手右美沙芬 头顶盐野义 登顶 https://t.co/WYwJ2RiBGa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁休学在家 双相/自残/od 尼古丁持续依赖 许愿朋友。",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090288554257924333",
+        "name": "小雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088370406839418880/dkn7qy8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2109169282609508587",
+    "created_at": "2026-10-11T10:25:02.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T11:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109228774256722170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090037143972593664",
+          "start": 0,
+          "username": "Acetaffyismymom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109228774256722170",
+    "in_reply_to_user_id": "2090037143972593664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109169282609508587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acetaffyismymom 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2109169263127011328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUVGRRvboAAaUGU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2109169274061504512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUVGR6eawAAjKMk.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2109169282609508587",
+        "created_at": "2026-10-11T10:25:02.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T11:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109228774256722170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090037143972593664",
+              "start": 0,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109228774256722170",
+        "in_reply_to_user_id": "2090037143972593664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109169282609508587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acetaffyismymom 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109169263127011328",
+            "3_2109169274061504512"
+          ]
+        },
+        "author_id": "2090037143972593664",
+        "conversation_id": "2109169282609508587",
+        "created_at": "2026-10-11T06:28:38.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T07:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109169282609508587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaXL6Xcsi7",
+              "end": 62,
+              "expanded_url": "https://x.com/Acetaffyismymom/status/2109169282609508587/photo/1",
+              "media_key": "3_2109169263127011328",
+              "start": 39,
+              "url": "https://t.co/PaXL6Xcsi7"
+            },
+            {
+              "display_url": "pic.x.com/PaXL6Xcsi7",
+              "end": 62,
+              "expanded_url": "https://x.com/Acetaffyismymom/status/2109169282609508587/photo/1",
+              "media_key": "3_2109169274061504512",
+              "start": 39,
+              "url": "https://t.co/PaXL6Xcsi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109169282609508587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109169263127011328"
+          },
+          {
+            "media_key": "3_2109169274061504512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1377,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "666fo福利来了喵😋，保健委员塔菲😋😋\n才没有翻车车呢喵(原来窝这么美丽🥵 https://t.co/PaXL6Xcsi7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/overdose/自伤/喜欢东方project\n只回fo同类 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109228774256722170",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109034304072552448/7PUIsGrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 68,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "雛草姬/普高理科做題家/INTJ/🍺輕度依賴/不o/🔪🤚🏻🩸/中焦重抑/病毒性角膜炎常發 只反對一些立場錯誤的極端羣體，對大部分人都友好，此號多發些碎碎念，可能很多負能量，但我希望一切都變好，祝大家都能生活順利喵\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2109228565833351433",
+        "name": "塔菲是我疊二代機",
+        "pinned_tweet_id": "2103838893317689710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090040489114513408/Vp9HDaFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 686,
+          "like_count": 4085,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

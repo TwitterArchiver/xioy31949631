@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2109480291828220037",
+    "created_at": "2026-10-12T08:23:39.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T09:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109560616201679178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090037143972593664",
+          "start": 0,
+          "username": "Acetaffyismymom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109560616201679178",
+    "in_reply_to_user_id": "2090037143972593664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109480291828220037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acetaffyismymom 好好看🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13537,
+        "height": 1920,
+        "media_key": "13_2109480149288996864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109480149288996864/img/uzv-adSphbXKWJNp.jpg",
+        "public_metrics": {
+          "view_count": 380
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109480149288996864/vid/avc1/720x1280/Hd7-3SmCgf2iyd6Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109480149288996864/vid/avc1/480x852/OipW7-t2FbMLDtgq.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109480149288996864/vid/avc1/320x568/QP2VDrv6Zet86BIv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109480149288996864/vid/avc1/1080x1920/E3fFWVwWjf7b8_07.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109480149288996864/pl/DqLen9pLRHie7iBO.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2109480193123553281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUZhDyPaEAEIYJQ.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2109480205836587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUZhEhmbkAAfBjO.jpg",
+        "width": 2160
+      },
+      {
+        "height": 708,
+        "media_key": "3_2109480285310197760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUZhJJqaoAAKUO_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2109480291828220037",
+        "created_at": "2026-10-12T08:23:39.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T09:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109560616201679178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090037143972593664",
+              "start": 0,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109560616201679178",
+        "in_reply_to_user_id": "2090037143972593664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109480291828220037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acetaffyismymom 好好看🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109480149288996864",
+            "3_2109480193123553281",
+            "3_2109480205836587008",
+            "3_2109480285310197760"
+          ]
+        },
+        "author_id": "2090037143972593664",
+        "conversation_id": "2109480291828220037",
+        "created_at": "2026-10-12T03:04:28.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T04:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109480291828220037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/byucgkkxAg",
+              "end": 42,
+              "expanded_url": "https://x.com/Acetaffyismymom/status/2109480291828220037/video/1",
+              "media_key": "13_2109480149288996864",
+              "start": 19,
+              "url": "https://t.co/byucgkkxAg"
+            },
+            {
+              "display_url": "pic.x.com/byucgkkxAg",
+              "end": 42,
+              "expanded_url": "https://x.com/Acetaffyismymom/status/2109480291828220037/video/1",
+              "media_key": "3_2109480193123553281",
+              "start": 19,
+              "url": "https://t.co/byucgkkxAg"
+            },
+            {
+              "display_url": "pic.x.com/byucgkkxAg",
+              "end": 42,
+              "expanded_url": "https://x.com/Acetaffyismymom/status/2109480291828220037/video/1",
+              "media_key": "3_2109480205836587008",
+              "start": 19,
+              "url": "https://t.co/byucgkkxAg"
+            },
+            {
+              "display_url": "pic.x.com/byucgkkxAg",
+              "end": 42,
+              "expanded_url": "https://x.com/Acetaffyismymom/status/2109480291828220037/video/1",
+              "media_key": "3_2109480285310197760",
+              "start": 19,
+              "url": "https://t.co/byucgkkxAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109480291828220037",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2109480149288996864"
+          },
+          {
+            "media_key": "3_2109480193123553281"
+          },
+          {
+            "media_key": "3_2109480205836587008"
+          },
+          {
+            "media_key": "3_2109480285310197760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 749,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝好可爱呀嘻嘻♡˙°ʚᕱ⑅ᕱɞ°˙♡ https://t.co/byucgkkxAg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109560616201679178",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109034304072552448/7PUIsGrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 79,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "窝是一个正常人中的少数人，少数人中的正常人，窝只反對一些立場錯誤的極端羣體，對大部分人都友好，此號多發些碎碎念，可能很多負能量，但我希望一切都變好，祝大家都能生活順利喵\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2109557255221985289",
+        "name": "塔菲是我疊🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2109508308520567137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109242531745857536/NL-7SvYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 735,
+          "like_count": 4200,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

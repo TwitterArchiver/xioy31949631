@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2109800977184547320",
+    "created_at": "2026-10-13T00:18:45.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T01:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109800977184547320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ch95032580/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ch95032580/status/2109755504193114383",
+          "start": 17,
+          "url": "https://t.co/Y1rrE3ZDUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109800977184547320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109755504193114383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在推上一直碎碎念会交到好朋友不。 https://t.co/Y1rrE3ZDUP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2109800977184547320",
+        "created_at": "2026-10-13T00:18:45.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T01:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109800977184547320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ch95032580/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ch95032580/status/2109755504193114383",
+              "start": 17,
+              "url": "https://t.co/Y1rrE3ZDUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109800977184547320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109755504193114383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在推上一直碎碎念会交到好朋友不。 https://t.co/Y1rrE3ZDUP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630054577511997440",
+        "conversation_id": "2109755504193114383",
+        "created_at": "2026-10-12T21:18:04.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T22:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109755504193114383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zzz_error_3/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Zzz_error_3/status/2109693434365894656",
+              "start": 17,
+              "url": "https://t.co/MoaAI14p8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109755504193114383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109693434365894656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在推上一直碎碎念会交到好朋友不。 https://t.co/MoaAI14p8J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109800977184547320",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109034304072552448/7PUIsGrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 84,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-27T03:58:04.000Z",
+        "description": "oder/穿孔/不割  这里是烈日，会偶尔出售自己用不完的💊，少量贴身原味回点血喵，互fo欢迎，没看到请私信我\n我的ngl：https://t.co/n7FFP9hOfi\n防走丢tg：@thesun324909",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "thesun324909"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lion200403",
+                "end": 85,
+                "expanded_url": "https://ngl.link/lion200403",
+                "start": 62,
+                "url": "https://t.co/n7FFP9hOfi"
+              }
+            ]
+          }
+        },
+        "id": "1630054577511997440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2109786166107214145",
+        "name": "烈日",
+        "pinned_tweet_id": "2107694342819439072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630054577511997440/1790992742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108170733075722240/SP_OVxor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 196,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "ch95032580",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

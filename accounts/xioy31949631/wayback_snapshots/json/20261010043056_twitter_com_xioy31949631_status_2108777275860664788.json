@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2108760306315055475",
+    "created_at": "2026-10-10T04:30:56.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T05:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108777275860664788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827289747976548354",
+          "start": 0,
+          "username": "Entropy___aaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108777275860664788",
+    "in_reply_to_user_id": "1827289747976548354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108760306315055475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy___aaaa 求互fo呀 我o了手点抖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108760084243439616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUPSH7naYAA3fh5.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2108760306315055475",
+        "created_at": "2026-10-10T04:30:56.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108777275860664788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827289747976548354",
+              "start": 0,
+              "username": "Entropy___aaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108777275860664788",
+        "in_reply_to_user_id": "1827289747976548354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108760306315055475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy___aaaa 求互fo呀 我o了手点抖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108760084243439616"
+          ]
+        },
+        "author_id": "1827289747976548354",
+        "conversation_id": "2108760306315055475",
+        "created_at": "2026-10-10T03:23:30.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T04:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108760306315055475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zydaSBZXfQ",
+              "end": 79,
+              "expanded_url": "https://x.com/Entropy___aaaa/status/2108760306315055475/photo/1",
+              "media_key": "3_2108760084243439616",
+              "start": 56,
+              "url": "https://t.co/zydaSBZXfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108760306315055475",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108760084243439616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了啊啊啊啊，X一点都不言论自由！我觉着我应该，每条都标上免责声明，比如剧本演绎之类的，并且不能说太负面的话 https://t.co/zydaSBZXfQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n14歲休學在家/雙相/精分/overdose/自傷/喜歡東方project\n只回fo同類\n業餘學習藥理\nip北京順義 線下掛壁dd\n熟悉了可以給你寄pr阿片咪\n沒有🚪想加我牆內深交的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "距离你300m",
+        "most_recent_tweet_id": "2108777275860664788",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107182562229796864/5pMR9VHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 45,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-24T10:20:22.000Z",
+        "description": "oder阿片鬼entp喜欢黑金属安那其主义者求互关",
+        "id": "1827289747976548354",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108761195054526601",
+        "name": "Entropy（二代目被封求回关中）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103070771430252544/j4ht_RVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 54,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Entropy___aaaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

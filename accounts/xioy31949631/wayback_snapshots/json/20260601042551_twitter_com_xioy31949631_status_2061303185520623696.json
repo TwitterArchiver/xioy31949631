@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2061303185520623696",
+    "created_at": "2026-06-01T04:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061303185520623696"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061303185520623696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2061303185520623696",
+        "created_at": "2026-06-01T04:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061303185520623696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061303185520623696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "我只是一个oder不要攻击我谢谢 男生双向情感障碍 打游戏好像还不错？想墙内深交的私信我",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057973080715358208/H_cWY1h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "xioy31949631",
+        "verified": false
+      }
+    ]
+  }
+}

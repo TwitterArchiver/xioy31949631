@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072502853176815617"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "conversation_id": "2072502872625836395",
+    "created_at": "2026-07-02T02:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072502872625836395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvOqZbMtrv",
+          "end": 36,
+          "expanded_url": "https://x.com/xioy31949631/status/2072502872625836395/photo/1",
+          "media_key": "3_2072502853176815617",
+          "start": 13,
+          "url": "https://t.co/bvOqZbMtrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072502872625836395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你永远活在我歌里没过滤镜 https://t.co/bvOqZbMtrv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072502853176815617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMCXUeWcAE7pkI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072502853176815617"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "conversation_id": "2072502872625836395",
+        "created_at": "2026-07-02T02:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072502872625836395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvOqZbMtrv",
+              "end": 36,
+              "expanded_url": "https://x.com/xioy31949631/status/2072502872625836395/photo/1",
+              "media_key": "3_2072502853176815617",
+              "start": 13,
+              "url": "https://t.co/bvOqZbMtrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072502872625836395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你永远活在我歌里没过滤镜 https://t.co/bvOqZbMtrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁男生 分裂情感障碍 自残磕药欢迎交友喵",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064129087405277185/KBvv7JtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false
+      }
+    ]
+  }
+}

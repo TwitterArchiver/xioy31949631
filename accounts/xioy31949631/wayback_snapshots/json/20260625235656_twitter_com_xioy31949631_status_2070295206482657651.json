@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2070195260693889221",
+    "created_at": "2026-06-25T23:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070295206482657651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993098158495395840",
+          "start": 0,
+          "username": "kfqnszVKWv91426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070295206482657651",
+    "in_reply_to_user_id": "1993098158495395840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070195260693889221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfqnszVKWv91426 吃了多少a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2070195260693889221",
+        "created_at": "2026-06-25T23:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070295206482657651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993098158495395840",
+              "start": 0,
+              "username": "kfqnszVKWv91426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070295206482657651",
+        "in_reply_to_user_id": "1993098158495395840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070195260693889221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfqnszVKWv91426 吃了多少a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993098158495395840",
+        "conversation_id": "2070195260693889221",
+        "created_at": "2026-06-25T17:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070195260693889221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070195260693889221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 151,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了佐匹克隆好高兴啊，这个药还有欣快作用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁男生 分裂情感障碍 自残磕药欢迎交友喵",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064129087405277185/KBvv7JtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T23:23:44.000Z",
+        "description": "焦虑抑郁/泛性恋/💊\n我想追求幸福",
+        "id": "1993098158495395840",
+        "name": "air",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046692710976040960/G3P1mnT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 120,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "kfqnszVKWv91426",
+        "verified": false
+      }
+    ]
+  }
+}

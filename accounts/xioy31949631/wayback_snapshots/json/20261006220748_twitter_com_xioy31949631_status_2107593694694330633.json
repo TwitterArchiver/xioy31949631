@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2107593694694330633",
+    "created_at": "2026-10-06T22:07:48.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T23:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107593694694330633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2092287444658073601",
+          "start": 3,
+          "username": "AkemiHomura8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107593694694330633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106413994286485754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkemiHomura8964: 我突然意识到杨康、吉他张在玉米片的消亡过程里起到了非常关键的作用，他的歌消费某特定群体后来又出圈，影响范围越来越大，跟风od 的人越来越多。。\n我真的很讨厌他。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2107593694694330633",
+        "created_at": "2026-10-06T22:07:48.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T23:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107593694694330633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2092287444658073601",
+              "start": 3,
+              "username": "AkemiHomura8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107593694694330633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106413994286485754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkemiHomura8964: 我突然意识到杨康、吉他张在玉米片的消亡过程里起到了非常关键的作用，他的歌消费某特定群体后来又出圈，影响范围越来越大，跟风od 的人越来越多。。\n我真的很讨厌他。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092287444658073601",
+        "conversation_id": "2106413994286485754",
+        "created_at": "2026-10-03T16:00:06.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106413994286485754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106413994286485754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我突然意识到杨康、吉他张在玉米片的消亡过程里起到了非常关键的作用，他的歌消费某特定群体后来又出圈，影响范围越来越大，跟风od 的人越来越多。。\n我真的很讨厌他。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n14歲休學在家/雙相/精分/overdose/自傷/二次元\n只回fo同類小可憐\n我精神不正常說話不過腦子 如果讓你聽著難受了和我說呀 我都會改的！\n業餘學習藥理\nip北京順義 線下掛壁dd 我在網上什麼話都敢說 線下是一個特別社恐的人呀\n熟悉了可以給你寄pr阿片咪\n沒有🚪想加我牆內深交的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107593694694330633",
+        "name": "戒不掉阿片就去死2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107182562229796864/5pMR9VHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 25,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T16:28:56.000Z",
+        "description": "我只是開口了",
+        "id": "2092287444658073601",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107555244062408801",
+        "name": "Ku1tu2e",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092287444658073601/1787743456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092288317547220992/qxo_rTqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "AkemiHomura8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

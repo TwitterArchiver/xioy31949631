@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2108910604081832201",
+    "created_at": "2026-10-10T13:20:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T14:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108910604081832201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2090037143972593664",
+          "start": 3,
+          "username": "Acetaffyismymom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108910604081832201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108828512975208781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Acetaffyismymom: 不行，窝也要搞个抽奖，不然涨fo太慢了\n喵，窝挺穷的没啥好奖励，大家来参与着随便玩玩就行了喵\n一等奖 1-10rmb随机金额 一份\n二等奖 奥林匹克小丛书电子版+mst26版资料 五份\n关注评论加转帖即可参与\n让我快点涨到666fo时我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2108910604081832201",
+        "created_at": "2026-10-10T13:20:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T14:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108910604081832201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2090037143972593664",
+              "start": 3,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108910604081832201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108828512975208781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Acetaffyismymom: 不行，窝也要搞个抽奖，不然涨fo太慢了\n喵，窝挺穷的没啥好奖励，大家来参与着随便玩玩就行了喵\n一等奖 1-10rmb随机金额 一份\n二等奖 奥林匹克小丛书电子版+mst26版资料 五份\n关注评论加转帖即可参与\n让我快点涨到666fo时我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090037143972593664",
+        "conversation_id": "2108828512975208781",
+        "created_at": "2026-10-10T07:54:32.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T08:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108828512975208781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108828512975208781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "不行，窝也要搞个抽奖，不然涨fo太慢了\n喵，窝挺穷的没啥好奖励，大家来参与着随便玩玩就行了喵\n一等奖 1-10rmb随机金额 一份\n二等奖 奥林匹克小丛书电子版+mst26版资料 五份\n关注评论加转帖即可参与\n让我快点涨到666fo时我就发女装\n十月十一号下午一点由gork开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n14歲休學在家/雙相/精分/overdose/自傷/喜歡東方project\n只回fo同類\n業餘學習藥理\nip北京順義 線下掛壁dd\n熟悉了可以給你寄pr阿片咪\n沒有🚪想加我牆內深交的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "距离你300m",
+        "most_recent_tweet_id": "2108910604081832201",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107182562229796864/5pMR9VHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 46,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "雛草姬/普高理科做題家/INTJ/🍺輕度依賴/不o/🔪🤚🏻🩸/中焦重抑/病毒性角膜炎常發 只反對一些立場錯誤的極端羣體，對大部分人都友好，此號多發些碎碎念，可能很多負能量，但我希望一切都變好，祝大家都能生活順利喵\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2108886803386343645",
+        "name": "塔菲是我疊二代機",
+        "pinned_tweet_id": "2103838893317689710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090040489114513408/Vp9HDaFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 650,
+          "like_count": 3944,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

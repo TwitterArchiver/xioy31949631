@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2110739951616942295",
+    "created_at": "2026-10-15T14:29:54.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T15:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2110739951616942295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/scoook166224/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/scoook166224/status/2110733869733560736",
+          "start": 40,
+          "url": "https://t.co/HqgxaLx6vF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110739951616942295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110733869733560736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "几个od的精神病天天吵来吵去的，你们看spring风多安静，都不来参与这些破事 https://t.co/HqgxaLx6vF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2110739951616942295",
+        "created_at": "2026-10-15T14:29:54.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T15:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110739951616942295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scoook166224/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/scoook166224/status/2110733869733560736",
+              "start": 40,
+              "url": "https://t.co/HqgxaLx6vF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110739951616942295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110733869733560736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几个od的精神病天天吵来吵去的，你们看spring风多安静，都不来参与这些破事 https://t.co/HqgxaLx6vF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759174755502952448",
+        "conversation_id": "2110733869733560736",
+        "created_at": "2026-10-15T14:05:44.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T15:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110733869733560736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2110215625792692447",
+              "start": 40,
+              "url": "https://t.co/HfkUnceU2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110733869733560736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110215625792692447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几个od的精神病天天吵来吵去的，你们看spring风多安静，都不来参与这些破事 https://t.co/HfkUnceU2L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 直fo就是喜欢泥， 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2110739951616942295",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "pinned_tweet_id": "2109805703817036276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1791854700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110007847937523712/TKL1U0OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 149,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-18T11:15:27.000Z",
+        "description": "10男高/oder(太穷以至于没钱吃饭也没钱买药了)\n会发点o后感和日常\n常年在校(目前违纪在家，10/19返校)\n欢迎互fo",
+        "id": "1759174755502952448",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2110737778644545700",
+        "name": "scoook",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759174755502952448/1777595902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937873481934528512/pYVfcz3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 412,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "scoook166224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

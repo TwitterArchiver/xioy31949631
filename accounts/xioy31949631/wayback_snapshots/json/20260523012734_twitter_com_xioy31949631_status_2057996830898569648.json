@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2057267373498130535",
+    "created_at": "2026-05-23T01:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057996830898569648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641073720696655880",
+          "start": 0,
+          "username": "Jiwawa171619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057996830898569648",
+    "in_reply_to_user_id": "1641073720696655880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057267373498130535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiwawa171619 还有吗宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2057267373498130535",
+        "created_at": "2026-05-23T01:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057996830898569648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641073720696655880",
+              "start": 0,
+              "username": "Jiwawa171619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057996830898569648",
+        "in_reply_to_user_id": "1641073720696655880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057267373498130535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiwawa171619 还有吗宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641073720696655880",
+        "conversation_id": "2057267373498130535",
+        "created_at": "2026-05-21T01:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057267373498130535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057267373498130535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出几盒愈美片，有云药和新康泰克的，自带价来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "我只是一个oder不要攻击我谢谢 男生双向情感障碍打游戏好像还不错？想墙内深交的私信我",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057973080715358208/H_cWY1h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "xioy31949631",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T13:44:08.000Z",
+        "description": "对不起 吉娃娃",
+        "id": "1641073720696655880",
+        "location": "厕所",
+        "name": "Jiwawa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804542882596139008/8HmxAAB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 156,
+          "like_count": 3317,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 488
+        },
+        "username": "Jiwawa171619",
+        "verified": false
+      }
+    ]
+  }
+}

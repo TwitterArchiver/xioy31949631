@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2109995164219670575",
+    "created_at": "2026-10-13T14:40:15.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T15:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110017778044596576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1732962645630910464",
+          "start": 0,
+          "username": "ade223666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110017778044596576",
+    "in_reply_to_user_id": "1732962645630910464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110015920945107357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ade223666 真晕碳了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2109995164219670575",
+        "created_at": "2026-10-13T14:40:15.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T15:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110017778044596576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1732962645630910464",
+              "start": 0,
+              "username": "ade223666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110017778044596576",
+        "in_reply_to_user_id": "1732962645630910464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110015920945107357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ade223666 真晕碳了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732962645630910464",
+        "conversation_id": "2109995164219670575",
+        "created_at": "2026-10-13T14:32:52.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T15:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110015920945107357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881022435795058688",
+              "start": 0,
+              "username": "xioy31949631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110015920945107357",
+        "in_reply_to_user_id": "1881022435795058688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109995164219670575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy31949631 晕碳是正常的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 直fo就是喜欢泥， 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2110017778044596576",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "pinned_tweet_id": "2109805703817036276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1791854700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110007847937523712/TKL1U0OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 105,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-08T03:18:11.000Z",
+        "description": "修养身心，遇见自己\nhttps://t.co/0vv7DLVoOW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ade1573",
+                "end": 33,
+                "expanded_url": "http://t.me/ade1573",
+                "start": 10,
+                "url": "https://t.co/0vv7DLVoOW"
+              }
+            ]
+          }
+        },
+        "id": "1732962645630910464",
+        "is_identity_verified": false,
+        "location": "咸宁",
+        "most_recent_tweet_id": "2110017065142907137",
+        "name": "ade",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732962645630910464/1703017494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872701425354186752/uKhKTIpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 19,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "ade223666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

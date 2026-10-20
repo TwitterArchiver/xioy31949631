@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-18T22:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067743912295313856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720098116601532416",
+          "start": 0,
+          "username": "nixyng246039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067743912295313856",
+    "in_reply_to_user_id": "1720098116601532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062483319154229299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nixyng246039 现在也没有什么好药可以o了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-18T22:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067743912295313856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067743912295313856",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062483319154229299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 现在也没有什么好药可以o了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T10:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062483319154229299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062483319154229299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17559,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 67,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好恶心，在思考要不要od，有人给建议吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "13岁男生 我自残与磕药跟你没关系 瞎骂我的你最好一点墙内信息都别漏",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064129087405277185/KBvv7JtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 502,
+          "like_count": 7098,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

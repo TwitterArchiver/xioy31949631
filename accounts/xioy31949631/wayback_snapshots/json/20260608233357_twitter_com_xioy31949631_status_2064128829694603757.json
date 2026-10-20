@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064128475464646656"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "conversation_id": "2064128829694603757",
+    "created_at": "2026-06-08T23:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064128829694603757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D4yjFSaT2s",
+          "end": 57,
+          "expanded_url": "https://x.com/xioy31949631/status/2064128829694603757/video/1",
+          "media_key": "13_2064128475464646656",
+          "start": 34,
+          "url": "https://t.co/D4yjFSaT2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064128829694603757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男生自残咋了 怎么总有些傻逼说男生这么脆弱干嘛 操你妈你是不是傻逼 https://t.co/D4yjFSaT2s"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10550,
+        "height": 1280,
+        "media_key": "13_2064128475464646656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064128475464646656/img/FsFEO5SNs5Xt5LCO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064128475464646656/vid/avc1/320x568/jVtHToyF6iQ-hodt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064128475464646656/vid/avc1/480x852/denjT6_WHgTjXQ6V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064128475464646656/vid/avc1/720x1280/5GDUkJtwgJBogn64.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064128475464646656/pl/rhK5gouF17US-uw6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064128475464646656"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "conversation_id": "2064128829694603757",
+        "created_at": "2026-06-08T23:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064128829694603757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4yjFSaT2s",
+              "end": 57,
+              "expanded_url": "https://x.com/xioy31949631/status/2064128829694603757/video/1",
+              "media_key": "13_2064128475464646656",
+              "start": 34,
+              "url": "https://t.co/D4yjFSaT2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064128829694603757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生自残咋了 怎么总有些傻逼说男生这么脆弱干嘛 操你妈你是不是傻逼 https://t.co/D4yjFSaT2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "13岁男生 我自残与磕药跟你没关系 瞎骂我的你最好一点墙内信息都别漏",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062647435839610880/0TzGReNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "username": "xioy31949631",
+        "verified": false
+      }
+    ]
+  }
+}

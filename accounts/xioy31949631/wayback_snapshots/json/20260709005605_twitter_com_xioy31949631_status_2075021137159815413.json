@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075021056037822464"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "conversation_id": "2075021137159815413",
+    "created_at": "2026-07-09T00:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075021137159815413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9z1TjZzAUc",
+          "end": 31,
+          "expanded_url": "https://x.com/xioy31949631/status/2075021137159815413/video/1",
+          "media_key": "13_2075021056037822464",
+          "start": 8,
+          "url": "https://t.co/9z1TjZzAUc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075021137159815413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又买到了喵呜。 https://t.co/9z1TjZzAUc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30833,
+        "height": 960,
+        "media_key": "13_2075021056037822464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075021056037822464/img/wJGbPMdq1R_oVlch.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075021056037822464/vid/avc1/320x426/HNEH5jZwYLQBFgYJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075021056037822464/vid/avc1/480x640/kM8F_GkcjBGYPC3N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075021056037822464/vid/avc1/720x960/sgY0YtnVna9Xrpr0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075021056037822464/pl/I87CTrLftPP6rN5C.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075021056037822464"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "conversation_id": "2075021137159815413",
+        "created_at": "2026-07-09T00:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075021137159815413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z1TjZzAUc",
+              "end": 31,
+              "expanded_url": "https://x.com/xioy31949631/status/2075021137159815413/video/1",
+              "media_key": "13_2075021056037822464",
+              "start": 8,
+              "url": "https://t.co/9z1TjZzAUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075021137159815413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又买到了喵呜。 https://t.co/9z1TjZzAUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁男生 分裂情感障碍 自残磕药欢迎交友喵",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064129087405277185/KBvv7JtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false
+      }
+    ]
+  }
+}

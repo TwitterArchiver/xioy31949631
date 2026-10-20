@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2108486131927175385",
+    "created_at": "2026-10-11T00:09:36.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T01:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109073895856975982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2035888032780529664",
+          "start": 0,
+          "username": "ELRapenty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109073895856975982",
+    "in_reply_to_user_id": "2035888032780529664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108486131927175385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ELRapenty 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2748,
+        "media_key": "3_2108486124218036224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HULY9W_bMAA8amt.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2108486131927175385",
+        "created_at": "2026-10-11T00:09:36.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T01:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109073895856975982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2035888032780529664",
+              "start": 0,
+              "username": "ELRapenty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109073895856975982",
+        "in_reply_to_user_id": "2035888032780529664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108486131927175385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ELRapenty 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108486124218036224"
+          ]
+        },
+        "author_id": "2035888032780529664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2108486131927175385",
+        "created_at": "2026-10-09T09:14:02.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108486131927175385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChDvlaztb3",
+              "end": 182,
+              "expanded_url": "https://x.com/ELRapenty/status/2108486131927175385/photo/1",
+              "media_key": "3_2108486124218036224",
+              "start": 159,
+              "url": "https://t.co/ChDvlaztb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108486131927175385",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108486124218036224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1475,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "ALL PEFERECT＋？！\nEL老先生的账号也是拥有了101个fo\n可喜可贺。此前EL只有一款社交软件的粉丝量到达三位数\n感谢关注我的每一位大大，EL给您们磕一个🧎‍♂️\n搞个抽奖回馈一下大家。\n奖励：kfc疯狂星期四×1 17.73r×2 7.3r×3\n条件：转帖+关注\n时间：10月16日之前\n求求各位转发😭 https://t.co/ChDvlaztb3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n14歲休學在家/雙相/精分/overdose/自傷/喜歡東方project\n只回fo同類 沒回在睡覺或飛昇了\n學習藥理ing\nip北京順義 線下掛壁dd\n沒有🚪想加我牆內深交的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109073895856975982",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109034304072552448/7PUIsGrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 62,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:15:31.000Z",
+        "description": "天真稚嫩的一个人/callme EL/07/\n爱无能产物/音游/酒精奴隶/欢迎来互fo/无条件回fo/欢迎和我交友/\n拥有过抑郁史但已痊愈，DM可以为您提供帮助。\n直fo致歉就是喜欢您的文字。\n祝您今日安康。",
+        "id": "2035888032780529664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108930278370476086",
+        "name": "EL_73",
+        "pinned_tweet_id": "2108486131927175385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035888032780529664/1791040387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106402162704359424/fdiDCcxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 219,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "ELRapenty",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

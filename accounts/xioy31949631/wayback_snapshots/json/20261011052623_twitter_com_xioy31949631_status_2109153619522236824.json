@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109153614002606080"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "conversation_id": "2109153619522236824",
+    "created_at": "2026-10-11T05:26:23.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T06:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109153619522236824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hRH6FOOzSy",
+          "end": 79,
+          "expanded_url": "https://x.com/xioy31949631/status/2109153619522236824/photo/1",
+          "media_key": "3_2109153614002606080",
+          "start": 56,
+          "url": "https://t.co/hRH6FOOzSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109153619522236824",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109153614002606080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天心血来潮打算去吃必胜客 吃得好撑好恶心本身就想吐 回来路上看到个孩子在玩🔟 刚吃完没十分钟就全催吐出去了。 https://t.co/hRH6FOOzSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2109153614002606080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUU4CYNbUAAVmEB.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109153614002606080"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "conversation_id": "2109153619522236824",
+        "created_at": "2026-10-11T05:26:23.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109153619522236824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRH6FOOzSy",
+              "end": 79,
+              "expanded_url": "https://x.com/xioy31949631/status/2109153619522236824/photo/1",
+              "media_key": "3_2109153614002606080",
+              "start": 56,
+              "url": "https://t.co/hRH6FOOzSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109153619522236824",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109153614002606080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天心血来潮打算去吃必胜客 吃得好撑好恶心本身就想吐 回来路上看到个孩子在玩🔟 刚吃完没十分钟就全催吐出去了。 https://t.co/hRH6FOOzSy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/overdose/自伤/喜欢东方project\n只回fo同类 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109153619522236824",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109034304072552448/7PUIsGrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 64,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

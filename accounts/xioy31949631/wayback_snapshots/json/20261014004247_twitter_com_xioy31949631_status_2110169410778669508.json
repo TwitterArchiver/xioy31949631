@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2109946293728706692",
+    "created_at": "2026-10-14T00:42:47.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T01:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110169410778669508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2109744279484616704",
+          "start": 0,
+          "username": "A1ouoA1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110169410778669508",
+    "in_reply_to_user_id": "2109744279484616704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110130906547781877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1ouoA1i 可以唔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2109946293728706692",
+        "created_at": "2026-10-14T00:42:47.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T01:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110169410778669508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2109744279484616704",
+              "start": 0,
+              "username": "A1ouoA1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110169410778669508",
+        "in_reply_to_user_id": "2109744279484616704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110130906547781877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1ouoA1i 可以唔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2109744279484616704",
+        "conversation_id": "2109946293728706692",
+        "created_at": "2026-10-13T22:09:47.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T23:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110130906547781877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881022435795058688",
+              "start": 0,
+              "username": "xioy31949631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110130906547781877",
+        "in_reply_to_user_id": "1881022435795058688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109946293728706692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy31949631 我可以加你吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 直fo就是喜欢泥， 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2110169410778669508",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "pinned_tweet_id": "2109805703817036276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1791854700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110007847937523712/TKL1U0OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 120,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-12T20:34:52.000Z",
+        "description": "出自录   🚪20",
+        "id": "2109744279484616704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110140479425945636",
+        "name": "Aqeq",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109744731844460544/Wtj96Q3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "A1ouoA1i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

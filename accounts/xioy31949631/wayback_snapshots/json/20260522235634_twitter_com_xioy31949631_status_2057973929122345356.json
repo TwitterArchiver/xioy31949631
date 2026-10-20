@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057973911044988928"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "conversation_id": "2057973929122345356",
+    "created_at": "2026-05-22T23:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T00:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057973929122345356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsVcIsX6yA",
+          "end": 26,
+          "expanded_url": "https://x.com/xioy31949631/status/2057973929122345356/photo/1",
+          "media_key": "3_2057973911044988928",
+          "start": 3,
+          "url": "https://t.co/jsVcIsX6yA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057973929122345356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对！ https://t.co/jsVcIsX6yA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057973911044988928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9kXlTboAA1Cvf.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057973911044988928"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "conversation_id": "2057973929122345356",
+        "created_at": "2026-05-22T23:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057973929122345356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsVcIsX6yA",
+              "end": 26,
+              "expanded_url": "https://x.com/xioy31949631/status/2057973929122345356/photo/1",
+              "media_key": "3_2057973911044988928",
+              "start": 3,
+              "url": "https://t.co/jsVcIsX6yA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057973929122345356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对！ https://t.co/jsVcIsX6yA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057973080715358208/H_cWY1h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "xioy31949631",
+        "verified": false
+      }
+    ]
+  }
+}

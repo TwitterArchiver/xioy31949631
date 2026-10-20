@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2110052994461102080"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "conversation_id": "2110053101571072184",
+    "created_at": "2026-10-13T17:00:36.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T18:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2110053101571072184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/51QUyrhxwy",
+          "end": 49,
+          "expanded_url": "https://x.com/xioy31949631/status/2110053101571072184/video/1",
+          "media_key": "13_2110052994461102080",
+          "start": 26,
+          "url": "https://t.co/51QUyrhxwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110053101571072184",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2110052994461102080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鹅鹅鹅发一条自己打游戏的视频吧 晚安！我睡觉觉了喵 https://t.co/51QUyrhxwy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35583,
+        "height": 720,
+        "media_key": "13_2110052994461102080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110052994461102080/img/amcaRb26qDYtDDEL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2110052994461102080/vid/avc1/480x270/uLIYCU6okwG0sWmh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2110052994461102080/vid/avc1/640x360/lLje_Whse8oihnlR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2110052994461102080/vid/avc1/1280x720/yzYziKrfVYTF3_Sd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2110052994461102080/pl/OUW2IuBO2Ai8eEKO.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2110052994461102080"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "conversation_id": "2110053101571072184",
+        "created_at": "2026-10-13T17:00:36.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T18:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110053101571072184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51QUyrhxwy",
+              "end": 49,
+              "expanded_url": "https://x.com/xioy31949631/status/2110053101571072184/video/1",
+              "media_key": "13_2110052994461102080",
+              "start": 26,
+              "url": "https://t.co/51QUyrhxwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110053101571072184",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2110052994461102080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鹅鹅鹅发一条自己打游戏的视频吧 晚安！我睡觉觉了喵 https://t.co/51QUyrhxwy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 直fo就是喜欢泥， 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2110053101571072184",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "pinned_tweet_id": "2109805703817036276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1791854700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110007847937523712/TKL1U0OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 117,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

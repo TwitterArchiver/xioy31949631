@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2099888618643087484",
+    "created_at": "2026-09-20T07:21:01.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101572320959901736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921304531964723200",
+          "start": 0,
+          "username": "AmeYukiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101572320959901736",
+    "in_reply_to_user_id": "1921304531964723200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099888618643087484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeYukiiiiii 问问lx咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099888604730531840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRNj3DaoAAM4Cs.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099888604696952832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRNj27aQAARff2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2099888618643087484",
+        "created_at": "2026-09-20T07:21:01.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101572320959901736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1921304531964723200",
+              "start": 0,
+              "username": "AmeYukiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101572320959901736",
+        "in_reply_to_user_id": "1921304531964723200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099888618643087484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeYukiiiiii 问问lx咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099888604730531840",
+            "3_2099888604696952832"
+          ]
+        },
+        "author_id": "1921304531964723200",
+        "conversation_id": "2099888618643087484",
+        "created_at": "2026-09-15T15:50:35.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099888618643087484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvCGcrd3Fp",
+              "end": 30,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2099888618643087484/photo/1",
+              "media_key": "3_2099888604730531840",
+              "start": 7,
+              "url": "https://t.co/RvCGcrd3Fp"
+            },
+            {
+              "display_url": "pic.x.com/RvCGcrd3Fp",
+              "end": 30,
+              "expanded_url": "https://x.com/AmeYukiiiiii/status/2099888618643087484/photo/1",
+              "media_key": "3_2099888604696952832",
+              "start": 7,
+              "url": "https://t.co/RvCGcrd3Fp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099888618643087484",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099888604730531840"
+          },
+          {
+            "media_key": "3_2099888604696952832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 182,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酸奶葡萄报告 https://t.co/RvCGcrd3Fp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁休学在家 双相/精神分裂/自残/od 尼古丁持续依赖 许愿朋友。没有帖子不回关哦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101572320959901736",
+        "name": "小雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088370406839418880/dkn7qy8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 17,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T20:41:29.000Z",
+        "description": "称呼我为大众化的“小雪”就好。身心女｜泛性恋｜07\n已和双相情感障碍虐恋很多年。\n账号含有药物和自伤内容，我喜欢写药物报告，互动会让我感到被在意……欢迎小窗。我不是什么好东西，不要给我覆上任何滤镜。\n需要互fo请私信，会回关同类。直fo就是喜欢你",
+        "id": "1921304531964723200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101505590669521127",
+        "name": "我消失不見於信箱之中",
+        "pinned_tweet_id": "1926599420566458768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921304531964723200/1786797373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088605631515340800/uzKyqFbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 66,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "AmeYukiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

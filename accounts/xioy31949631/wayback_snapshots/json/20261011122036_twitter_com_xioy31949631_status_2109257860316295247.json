@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109257850753331200"
+      ]
+    },
+    "author_id": "1881022435795058688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2109257860316295247",
+    "created_at": "2026-10-11T12:20:36.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T13:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109257860316295247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AV6jWXqHWj",
+          "end": 42,
+          "expanded_url": "https://x.com/xioy31949631/status/2109257860316295247/photo/1",
+          "media_key": "3_2109257850753331200",
+          "start": 19,
+          "url": "https://t.co/AV6jWXqHWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109257860316295247",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2109257850753331200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡醒玩45t愈美 5000mg普瑞呀 https://t.co/AV6jWXqHWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2109257850753331200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUWW1wXbMAArLk7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109257850753331200"
+          ]
+        },
+        "author_id": "1881022435795058688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2109257860316295247",
+        "created_at": "2026-10-11T12:20:36.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109257860316295247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AV6jWXqHWj",
+              "end": 42,
+              "expanded_url": "https://x.com/xioy31949631/status/2109257860316295247/photo/1",
+              "media_key": "3_2109257850753331200",
+              "start": 19,
+              "url": "https://t.co/AV6jWXqHWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109257860316295247",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2109257850753331200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡醒玩45t愈美 5000mg普瑞呀 https://t.co/AV6jWXqHWj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "你好呀我叫小雨\n初三休学在家/双向/精分/od/自伤/喜欢东方project\n只回fo同类 没回在睡觉或者飞升阿片星球了\n学习药理ing\nip北京顺义 线下查无此人\n想加我墙内的私信我就好啦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "location": "出生2012.7,30",
+        "most_recent_tweet_id": "2109257860316295247",
+        "name": "戒不掉阿片就去死2.0（互fo大歡迎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109034304072552448/7PUIsGrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 69,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

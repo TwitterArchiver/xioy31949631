@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2062166408960839721",
+    "created_at": "2026-06-04T21:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062644948684484877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062644948684484877",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062633060764717409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 可能是我的原因吧 我吃20t到25  我不可以你身体怎么样 可以先从7t开始一点点往上加 加到你觉得舒服然后没有那么难受就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2062166408960839721",
+        "created_at": "2026-06-04T21:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062644948684484877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062644948684484877",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062633060764717409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 可能是我的原因吧 我吃20t到25  我不可以你身体怎么样 可以先从7t开始一点点往上加 加到你觉得舒服然后没有那么难受就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967257406129504256",
+        "conversation_id": "2062166408960839721",
+        "created_at": "2026-06-04T20:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062633060764717409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881022435795058688",
+              "start": 0,
+              "username": "xioy31949631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062633060764717409",
+        "in_reply_to_user_id": "1881022435795058688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062622811579937072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy31949631 这个o起来怎么样呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "我只是一个oder不要攻击我谢谢 男生双向情感障碍 打游戏好像还不错？想墙内深交的私信我",
+        "id": "1881022435795058688",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057973080715358208/H_cWY1h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "xioy31949631",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "不管这个世界上多少坏人讨厌我 攻击我 不爱我我依旧不语 就萌萌的躺在这里 🚪52",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2060323322676863455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 33,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 227
+        },
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2091212443112657321",
+    "created_at": "2026-08-22T22:48:04.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T23:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091296372536623122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090989819166158848",
+          "start": 0,
+          "username": "bageruj9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091296372536623122",
+    "in_reply_to_user_id": "2090989819166158848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091212443112657321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bageruj9 想发个推钓个母狗是不是😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21569,
+        "height": 720,
+        "media_key": "13_2091212419091836928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091212419091836928/img/FUyWX6BW5vgrqhP8.jpg",
+        "public_metrics": {
+          "view_count": 7122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091212419091836928/vid/avc1/320x320/e6-mODyYFKJG-rvP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091212419091836928/vid/avc1/540x540/8sF89N6OL76VJq-z.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091212419091836928/vid/avc1/720x720/i2vjT5Do0vQA4sEJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091212419091836928/pl/uBaa5yKHkO3GxM9M.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2091212443112657321",
+        "created_at": "2026-08-22T22:48:04.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T23:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091296372536623122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090989819166158848",
+              "start": 0,
+              "username": "bageruj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091296372536623122",
+        "in_reply_to_user_id": "2090989819166158848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091212443112657321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bageruj9 想发个推钓个母狗是不是😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091212419091836928"
+          ]
+        },
+        "author_id": "2090989819166158848",
+        "conversation_id": "2091212443112657321",
+        "created_at": "2026-08-22T17:14:33.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091212443112657321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wWW5IAB07",
+              "end": 36,
+              "expanded_url": "https://x.com/bageruj9/status/2091212443112657321/video/1",
+              "media_key": "13_2091212419091836928",
+              "start": 13,
+              "url": "https://t.co/2wWW5IAB07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091212443112657321",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091212419091836928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14272,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 128,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭鱼烂虾看个黄片给你狂的 https://t.co/2wWW5IAB07"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁休学在家 双相/自残/od 尼古丁持续依赖 许愿朋友。没有帖子不回关哦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091296372536623122",
+        "name": "小雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088370406839418880/dkn7qy8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 10,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T02:30:34.000Z",
+        "description": "自己活得不好就别来评论别人？",
+        "id": "2090989819166158848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091242591992045823",
+        "name": "bage",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091211665585147904/A91keiPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "bageruj9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

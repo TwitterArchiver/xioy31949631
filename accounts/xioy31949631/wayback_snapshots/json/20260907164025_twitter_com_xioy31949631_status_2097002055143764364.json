@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1881022435795058688",
+    "conversation_id": "2095386014256664893",
+    "created_at": "2026-09-07T16:40:25.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097002055143764364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077732421488054272",
+          "start": 0,
+          "username": "FreePGBPlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097002055143764364",
+    "in_reply_to_user_id": "2077732421488054272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095386014256664893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreePGBPlz 问问tg号呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881022435795058688",
+        "conversation_id": "2095386014256664893",
+        "created_at": "2026-09-07T16:40:25.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097002055143764364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077732421488054272",
+              "start": 0,
+              "username": "FreePGBPlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097002055143764364",
+        "in_reply_to_user_id": "2077732421488054272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095386014256664893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreePGBPlz 问问tg号呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077732421488054272",
+        "conversation_id": "2095386014256664893",
+        "created_at": "2026-09-03T05:38:50.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095386014256664893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095386014256664893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1804,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "平壤槟榔1.7元一克！美味的朝鲜土特产只要1.7元一克哦~\n除此之外我们还售卖酸奶葡萄这一秘密特色美食，它一百毫克就能吃一口，而一克也就是十口只需40元就可以购买！\n欢迎大家私信我来采购美食哦~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T16:54:40.000Z",
+        "description": "14岁休学在家 双相/精神分裂/自残/od 尼古丁持续依赖 许愿朋友。没有帖子不回关哦",
+        "id": "1881022435795058688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097002055143764364",
+        "name": "小雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881022435795058688/1785267540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088370406839418880/dkn7qy8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 13,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "xioy31949631",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096562617854902718",
+        "name": "PGB",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 1,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
